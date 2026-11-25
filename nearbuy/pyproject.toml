@@ -1,7 +1,0 @@
-[project]
-name = "nearbuy"
-version = "3.0.1"
-requires-python = ">=3.12"
-
-[tool.vercel]
-# Vercel detects the Flask app exported as `app` from app.py.
